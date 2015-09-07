@@ -1,3 +1,3 @@
-# Big Insights - Mobile Survey and Analytics Library
+# Big Insights - Mobile Survey and Analytics
 Big Insights Android SDK
 
