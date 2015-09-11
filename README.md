@@ -34,7 +34,7 @@ TO INTEGRATE THIS LIBRARY INTO YOUR ANDROID APP, PLEASE FOLOW THE FOLLOWING FEW 
       <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 ```
 
- b) After adding the permissions, please paste the below code somewhere within your ```xml <application></application> ``` tags in your Android    Manifest.xml:
+ b) After adding the permissions, please paste the below code somewhere within your ``` <application></application> ``` tags in your Android    Manifest.xml:
 
 ```xml
   <!--Initialize Big Insights-->
