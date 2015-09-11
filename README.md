@@ -8,7 +8,6 @@ Deploy Now at http://biginsights.io
 ![Radio button](screenshots/3.png)
 ![Star Rating](screenshots/4.png)
 ![Number Scale](screenshots/5.png)
-![Confirm](screenshots/6.png)
 ![Sent](screenshots/7.png)
 
 
