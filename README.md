@@ -92,9 +92,9 @@ Intent BI = new Intent(this, io.biginsights.main.notifications.BigInsightsServic
 ```
 
 
-6. After step 5 above, please go ahead and run your Android App, you can now begin pushing surveys to everyone using the app in real time.
+6.After step 5 above, please go ahead and run your Android App, you can now begin pushing surveys to everyone using the app in real time.
 
-7. #UI (optional)
+7.#UI (optional)
     If you want to change the primary colors for your survey, please open the Big Insights SDK color resources (i.e /res/values/colors.xml) and edit the background and text colors (at the top of the file) to your as you prefer
 
 ```xml
