@@ -71,7 +71,7 @@ TO INTEGRATE THIS LIBRARY INTO YOUR ANDROID APP, PLEASE FOLOW THE FOLLOWING FEW 
    <!--End Big Insights-->
    ```
    
- 4. In step 3(b) please note the the Big Insights API key section. You need to paste your API key so as to start pushing out surveys to users.
+ 4.In step 3(b) please note the the Big Insights API key section. You need to paste your API key so as to start pushing out surveys to users.
      
 	 a) To get your API key, please go to http://biginsights.io , register an account and create a sample Mobile Survey.
 
