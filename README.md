@@ -25,16 +25,15 @@ TO INTEGRATE THIS LIBRARY INTO YOUR ANDROID APP, PLEASE FOLOW THE FOLLOWING FEW 
 
  a) Pleas add the following permissions if they do not exist yet:
  
-
-    <uses-permission android:name="android.permission.INTERNET" />
+ <uses-permission android:name="android.permission.INTERNET" />
      <uses-permission android:name="android.permission.VIBRATE" />
      <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
      <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
      <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
       <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
     
-	
-	
+
  b) After adding the permissions, please paste the below code somewhere within your <application></application> tags in your Android    Manifest.xml:
 
   <!--Initialize Big Insights-->
@@ -82,13 +81,12 @@ TO INTEGRATE THIS LIBRARY INTO YOUR ANDROID APP, PLEASE FOLOW THE FOLLOWING FEW 
         <meta-data android:name="Big_Insights_ANDROID_API_KEY"
            android:value="your_api_key_here"/>
 
-5.Add the following code in the onCreate of your app's Main Activity or Splash Activity to initialize Big Insights on opening the app 
+5.Add the following code in the onCreate of your app's Main Activity or Splash Activity to initialize Big Insights on opening the app: 
 
 
 Intent BI = new Intent(this, io.biginsights.main.notifications.BigInsightsService.class);
          this.startService(BI);
 
->
 
 6. After step 5 above, please go ahead and run your Android App, you can now begin pushing surveys to everyone using the app in real time.
 
