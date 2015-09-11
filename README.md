@@ -2,8 +2,7 @@
 Big Insights Android SDK
 
 Deploy Now at http://biginsights.io
-# Demo Screenshots
-![Textbox Question](screenshots/1.png)
+
 
 
 
