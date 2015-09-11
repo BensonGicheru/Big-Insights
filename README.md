@@ -6,7 +6,7 @@ Deploy Now at http://biginsights.io
 
 
 
-#Big Insights - Quick Setup Instructions
+#Quick Setup Instructions
 
 TO INTEGRATE THIS LIBRARY INTO YOUR ANDROID APP, PLEASE FOLOW THE FOLLOWING FEW STEPS
 
